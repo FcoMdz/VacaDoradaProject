@@ -27,4 +27,7 @@ throw new Error('Method not implemented.');
   constructor(){
     localStorage.setItem('Rol', ' ');
   }
+  goBack(): void {
+    window.history.back();
+  }
 }

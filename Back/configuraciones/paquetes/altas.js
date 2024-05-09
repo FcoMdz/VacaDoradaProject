@@ -51,4 +51,7 @@ const sql = require('../connection')
         res.send({success: true, message: "Ingrediente registrado correctamente"});
     });
   });
+    router.post('codigo', (req,res)=> {
+        
+    })
   module.exports = router

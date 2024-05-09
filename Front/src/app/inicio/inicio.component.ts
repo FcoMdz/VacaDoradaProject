@@ -17,6 +17,9 @@ export class InicioComponent {
   navigateToReservaciones() {
     this.router.navigate(['/reservacionMesas']);
   }
+  navigateToMeseros() {
+    this.router.navigate(['/meseroPedidos']);
+  }
 
  
 }
