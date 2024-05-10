@@ -1,12 +1,12 @@
 .background-image {
-    background-image: url("../../assets/img/54395.jpg");
+    background-image: url("assets/img/54395.jpg");
     background-size: cover;
     height: min(100vh, 100%);
     margin: 0;
 }
 
 .encabezado {
-    background-image: url("../../assets/img/grilled-beef.jpg");
+    background-image: url("assets/img/grilled-beef.jpg");
     background-size: cover;
     background-position: center;
     height: 300px;
